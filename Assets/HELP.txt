@@ -1,0 +1,28 @@
+Tags...
+-. Player : Basic. Player Object
+0. Player Body : Player's Collider
+1. Player Attack : Player's Attack Trigger
+2. Enemy
+3. Enemy Body : Enemy's Collider
+4. Enemy Attack : Enemy's Attack Trigger
+5. Trap
+6. Item
+
+Sorting Layers...
+Default : All Terrian etc...
+NPC
+Item
+Player
+Effect
+UI
+
+Layers...
+8. Player
+9. Enemy
+10. Item
+11. Trap
+If you need Detecting Player's Contact, Layer is "Ignore Raycast".
+
+When you make new Scene...
+Scene Files -> Put in Stage scene files in Stage Scene Names[] in "Title Canvas" Prefab and File - Build Settings
+

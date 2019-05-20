@@ -1,0 +1,63 @@
+Shoebill_Head_ 0.55 0.15
+Shoebill_Head_Shy
+Shoebill_Head_Die
+Shoebill_Head_Sad
+Shoebill_Head_Smile
+Shoebill_Head_Normal
+Shoebill_Head_Wild
+Shoebill_Head_Dark
+Shoebill_Head_ShySmile
+
+Shoebill_Bill 0.6 0.95
+
+Shoebill_Chest 0.5 0.17
+Shoebill_Hip 0.5 0.85
+
+Shoebill_ArmFU 0.5 0.8
+Shoebill_ArmBU
+ShoebillNoTise_ArmFU
+ShoebillNoTise_ArmBU
+
+Shoebill_ArmFL 0.5 0.9
+Shoebill_ArmBL
+
+Shoebill_HandF0 0.5 0.8
+Shoebill_HandB0 0.5 0.8
+Shoebill_HandF1 0.43 0.82
+Shoebill_HandB1 0.4 0.85
+Shoebill_HandF2 0.5 0.8
+Shoebill_HandB2 0.43 0.83
+Shoebill_HandF3 0.36 0.75
+Shoebill_HandB3 0.54 0.83
+
+Shoebill_LegFU 0.5 0.95
+Shoebill_LegBU 0.5 0.92
+ShoebillNoTise_LegFU 0.5 0.94
+ShoebillNoTise_LegBU 0.5 0.92
+
+Shoebill_LegFL 0.5 0.9
+Shoebill_LegBL
+
+Shoebill_FootF 0.2 0.85
+Shoebill_FootB
+
+Shoebill_Tail 0.58 0.92
+
+Shoebill_WingF0 0.83 0.79
+Shoebill_WingB0 0.37 0.79
+
+Shoebill_WingF1 0.9 0.55
+Shoebill_WingB1 0.12 0.6
+
+Shoebill_WingF2 0.93 0.03
+Shoebill_WingB2 0.2 0.01
+
+Shoebill_WingF3 0.93 0.33
+Shoebill_WingB3 0.06 0.62
+
+
+
+
+ShoebillNoTise_LegFU 0.5 0.94
+ShoebillNoTise_LegBU 0.5 0.92
+

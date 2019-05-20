@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Canvas\CutsceneAnimatorFunctions.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PublicCodes\GroundCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PC\PlayerMotion.cs" Line="288" Column="4" />
+      <File FileName="Assets\Scripts\PC\PlayerStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera\PlayerInitialization.cs" Line="9" Column="14" />
+      <File FileName="Assets\Scripts\PC\AnimatorFunctions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyMotion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\NamedEnemies\BigDogMotion.cs" Line="174" Column="26" />
+      <File FileName="Assets\Scripts\Camera\CameraSetting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Canvas\CanvasSetting.cs" Line="25" Column="56" />
+      <File FileName="Assets\Scripts\Canvas\TitleFunctions.cs" Line="42" Column="45" />
+      <File FileName="Assets\Scripts\Canvas\CutsceneAnimatorFunctions.cs" Line="27" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

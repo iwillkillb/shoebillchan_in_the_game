@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: db29069e011fcbd40a1dbd27443bd012
+timeCreated: 1504523394
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cellulien_0
+    21300002: Cellulien_1
+    21300004: Cellulien_2
+    21300006: Cellulien_3
+    21300008: Cellulien_Eye
+    21300010: Cellulien_Cube
+    21300012: Cellulien_BigDog
+    21300014: Cellulien_Leg
+    21300016: Cellulien_Drone
+    21300018: Cellulien_Sterm
+    21300020: Cellulien_Mouth
+    21300022: Cellulien_Foot
+    21300024: Cellulien_Jaw
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cellulien_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 150
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 174
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Eye
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 214
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Cube
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 217
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_BigDog
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 174
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Leg
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 31
+        width: 43
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Drone
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 84
+        width: 133
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Sterm
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 107
+        width: 83
+        height: 56
+      alignment: 9
+      pivot: {x: 0.18, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Mouth
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 53
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.13, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Foot
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cellulien_Jaw
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 5
+        width: 93
+        height: 35
+      alignment: 9
+      pivot: {x: 0.14, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

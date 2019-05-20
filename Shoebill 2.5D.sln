@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoebill 2.5D", "Assembly-CSharp.csproj", "{F356D826-2E26-B6FE-8812-648BF9CC6204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F356D826-2E26-B6FE-8812-648BF9CC6204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F356D826-2E26-B6FE-8812-648BF9CC6204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F356D826-2E26-B6FE-8812-648BF9CC6204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F356D826-2E26-B6FE-8812-648BF9CC6204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

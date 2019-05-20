@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: b4a0a44c794bb31419515394c5a0c319
+timeCreated: 1508833989
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shoebill_Head_Shy
+    21300002: Shoebill_Head_Die
+    21300004: Shoebill_Head_Cry
+    21300006: Shoebill_Head_Evil
+    21300008: Shoebill_LegFU
+    21300010: Shoebill_LegBU
+    21300012: Shoebill_LegFL
+    21300014: Shoebill_LegBL
+    21300016: Shoebill_HandF0
+    21300018: Shoebill_HandB0
+    21300020: Shoebill_Chest
+    21300022: Shoebill_HandF1
+    21300024: Shoebill_HandB1
+    21300026: Shoebill_Head_Sad
+    21300028: Shoebill_Head_Normal
+    21300030: Shoebill_Head_Wild
+    21300032: Shoebill_Head_Smile
+    21300034: Shoebill_FootF
+    21300036: Shoebill_Bill
+    21300038: Shoebill_HandF2
+    21300040: Shoebill_HandB2
+    21300042: Shoebill_FootB
+    21300044: Shoebill_HandF3
+    21300046: Shoebill_HandB3
+    21300048: Shoebill_WingF0
+    21300050: Shoebill_WingB0
+    21300052: Shoebill_WingF1
+    21300054: Shoebill_WingB1
+    21300056: Shoebill_WingF2
+    21300058: Shoebill_WingB2
+    21300060: Shoebill_ArmFU
+    21300062: Shoebill_ArmBU
+    21300064: Shoebill_Hip
+    21300066: Shoebill_Tail
+    21300068: Shoebill_ArmFL
+    21300070: Shoebill_ArmBL
+    21300072: ShoebillBikini_Chest
+    21300074: ShoebillBikini_ArmFU
+    21300076: ShoebillBikini_ArmBU
+    21300078: ShoebillBikini_ArmFL
+    21300080: ShoebillBikini_ArmBL
+    21300082: ShoebillBikini_LegFU
+    21300084: ShoebillBikini_LegBU
+    21300086: ShoebillBikini_LegFL
+    21300088: ShoebillBikini_LegBL
+    21300090: Shoebill_WingF3
+    21300092: Weapon_Knife
+    21300094: Shoebill_WingB3
+    21300096: Weapon_Kukri
+    21300098: ShoebillBikini_Hip
+    21300100: Weapon_Axe
+    21300102: Shoebill Spear
+    21300104: Weapon_Pistol
+    21300106: Weapon_SubMachineGun
+    21300108: ShoebillNoTise_LegFU
+    21300110: ShoebillNoTise_LegBU
+    21300112: ShoebillNoTise_ArmFU
+    21300114: ShoebillNoTise_ArmBU
+    21300116: Ball
+    21300118: Ball Damaged
+    21300120: Weapon_Rifle
+    21300122: Arms_LegFU
+    21300124: Arms_LegBU
+    21300126: Arms_LegFU_Pistol
+    21300128: Arms_Chest
+    21300130: Weapon_Katana
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shoebill_Head_Shy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Head_Die
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 431
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Head_Cry
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 431
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Head_Evil
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 431
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_LegFU
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 431
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_LegBU
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 431
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_LegFL
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 438
+        width: 19
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_LegBL
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 438
+        width: 19
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandF0
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 479
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandB0
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 480
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Chest
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 351
+        width: 48
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandF1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 433
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.43, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandB1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 437
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Head_Sad
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Head_Normal
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 346
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Head_Wild
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 346
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Head_Smile
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 346
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_FootF
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 392
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Bill
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 352
+        width: 18
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandF2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 402
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandB2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 394
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.43, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_FootB
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 350
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandF3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 360
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_HandB3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 353
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingF0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 43
+        height: 88
+      alignment: 9
+      pivot: {x: 0.83, y: 0.79}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingB0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 255
+        width: 23
+        height: 89
+      alignment: 9
+      pivot: {x: 0.37, y: 0.79}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingF1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 79
+        height: 72
+      alignment: 9
+      pivot: {x: 0.98, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingB1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 261
+        width: 75
+        height: 71
+      alignment: 9
+      pivot: {x: 0.026, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingF2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 248
+        width: 88
+        height: 95
+      alignment: 9
+      pivot: {x: 0.995, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingB2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 248
+        width: 60
+        height: 95
+      alignment: 9
+      pivot: {x: 0.025, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 257
+        width: 23
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 257
+        width: 23
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Hip
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 313
+        width: 41
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_Tail
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 255
+        width: 43
+        height: 85
+      alignment: 9
+      pivot: {x: 0.58, y: 0.92}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_ArmFL
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 266
+        width: 17
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_ArmBL
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 266
+        width: 17
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_Chest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 49
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 199
+        width: 20
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 20
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_ArmFL
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 199
+        width: 16
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53, y: 0.92}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_ArmBL
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 199
+        width: 16
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53, y: 0.92}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_LegFU
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 168
+        width: 35
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_LegBU
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 35
+        height: 80
+      alignment: 9
+      pivot: {x: 0.54, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_LegFL
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 173
+        width: 19
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_LegBL
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 173
+        width: 19
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingF3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 207
+        width: 97
+        height: 36
+      alignment: 9
+      pivot: {x: 0.965, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Weapon_Knife
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 226
+        width: 110
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill_WingB3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 165
+        width: 83
+        height: 36
+      alignment: 9
+      pivot: {x: 0.03, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Weapon_Kukri
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 191
+        width: 127
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2, y: 0.76}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillBikini_Hip
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 171
+        width: 41
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Weapon_Axe
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 122
+        width: 116
+        height: 62
+      alignment: 9
+      pivot: {x: 0.2, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoebill Spear
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 256
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Weapon_Pistol
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 121
+        width: 57
+        height: 37
+      alignment: 9
+      pivot: {x: 0.18, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Weapon_SubMachineGun
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 105
+        width: 72
+        height: 54
+      alignment: 9
+      pivot: {x: 0.15, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillNoTise_LegFU
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 37
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillNoTise_LegBU
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 37
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillNoTise_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 23
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShoebillNoTise_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 23
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ball
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 60
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ball Damaged
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 87
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Weapon_Rifle
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 31
+        width: 221
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arms_LegFU
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arms_LegBU
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arms_LegFU_Pistol
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.64, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arms_Chest
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Weapon_Katana
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 256
+        height: 26
+      alignment: 9
+      pivot: {x: 0.12, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
